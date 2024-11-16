@@ -169,3 +169,8 @@ pyproject.toml
 
 # VSCode
 .vscode
+
+# Assignments
+.github
+.gitmodules
+autograding
