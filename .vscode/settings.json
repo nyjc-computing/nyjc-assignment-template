@@ -16,9 +16,14 @@
     "workbench.welcomePage.walkthroughs.openOnInstall": false,
     "workbench.statusBar.visible": false,
     "breadcrumbs.enabled": false,
-    // Seach
+    // Search
     "search.exclude": {
-      "**/autograding/*": true
+      ".gitignore": true,
+      ".gitmodules": true,
+      ".github/": true,
+      ".vscode/": true,
+      "__pycache__/": true,
+      "autograding/": true
     },
     "files.exclude": {
       ".gitignore": true,
