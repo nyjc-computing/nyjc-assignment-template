@@ -20,14 +20,14 @@
     "search.exclude": {
       "**/autograding/*": true
     },
-    // "files.exclude": {
-    //   ".gitignore": true,
-    //   ".gitmodules": true,
-    //   ".github/": true,
-    //   ".vscode/": true,
-    //   "__pycache__/": true,
-    //   "autograding/": true,
-    // },
+    "files.exclude": {
+      ".gitignore": true,
+      ".gitmodules": true,
+      ".github/": true,
+      ".vscode/": true,
+      "__pycache__/": true,
+      "autograding/": true,
+    },
     // Code
     "editor.wordWrap": "on",
     "python.testing.unittestArgs": [
