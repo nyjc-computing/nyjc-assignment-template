@@ -167,7 +167,8 @@ replit.nix
 poetry.lock
 pyproject.toml
 
-# VSCode
+# Github
+.devcontainer/
 .vscode
 
 # Assignments
