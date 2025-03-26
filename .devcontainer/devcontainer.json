@@ -22,7 +22,7 @@
     
     // Use 'postCreateCommand' to run commands after the container is created.
     // "updateContentCommand": "pip3 install -r requirements.txt",
-    "postCreateCommand": "git config --global pull.ff only"
+    "postCreateCommand": "git config --global pull.ff true"
     
     // Configure tool-specific properties.
     // "customizations": {},
